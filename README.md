@@ -65,14 +65,14 @@ Summarizes actual vs. expected delivery days for completed orders, with delivery
 
 ## Screenshots  
 
-### KPI & Delivery Timeliness  
-![KPI and Timeliness](https://github.com/SuperfiedStudd/Power-BI-Vendor-OTIF-Analysis-App/blob/main/docs/kpi_timeliness.png?raw=true)  
+### Dashboard Overview 
+![Dashboard Overview](https://github.com/SuperfiedStudd/Power-BI-Vendor-OTIF-Analysis-App/blob/main/docs/dashboard_overview.png?raw=true)  
 
-### Orders by Condition & Timing  
-![Orders Condition](https://github.com/SuperfiedStudd/Power-BI-Vendor-OTIF-Analysis-App/blob/main/docs/orders_condition.png?raw=true)  
+### Purchase Orders Table 1  
+![Purchase Orders Table 1](https://github.com/SuperfiedStudd/Power-BI-Vendor-OTIF-Analysis-App/blob/main/docs/purchaseorderstable1.png?raw=true)  
 
-### Purchase Orders Tables  
-![PO Tables](https://github.com/SuperfiedStudd/Power-BI-Vendor-OTIF-Analysis-App/blob/main/docs/purchase_orders.png?raw=true)  
+### Purchase Orders Table 2  
+![Purchase Orders Table 2](https://github.com/SuperfiedStudd/Power-BI-Vendor-OTIF-Analysis-App/blob/main/docs/purchaseorderstable2.png?raw=true)  
 
 ---
 
